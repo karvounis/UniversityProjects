@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Multimedia"/>
+	<classpathentry kind="src" path="Programming"/>
+	<classpathentry kind="src" path="AdvancedProgramming"/>
+	<classpathentry kind="src" path="CyberSecurity"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Vag/git/cyber-security/Cyber/lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
